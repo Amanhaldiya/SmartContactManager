@@ -36,7 +36,7 @@ public class Application  implements CommandLineRunner {
 		user.setRoleList(List.of(AppConstants.ROLE_USER));
 		user.setEmailVerified(true);
 		user.setEnabled(true);
-		user.setAbout("This is dummy user created initially");
+		user.setAbout("This is user created initially");
 		user.setPhoneVerified(true);
 
 		userRepo.findByEmail("admin@gmail.com").ifPresentOrElse(user1 -> {},() -> {
