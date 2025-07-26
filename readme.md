@@ -30,5 +30,5 @@ A full-stack contact management system built using **Microservices Architecture*
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smart-contact-manager
-cd smart-contact-manager
+git clone https://github.com/Amanhaldiya/SmartContactManager.git
+cd scm
