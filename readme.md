@@ -26,7 +26,6 @@ A full-stack contact management system built using **Microservices Architecture*
 - Secure APIs using bearer tokens and role-based access
 
 ## 🚀 Getting Started
-
 ### 1. Clone the repository
 
 ```bash
