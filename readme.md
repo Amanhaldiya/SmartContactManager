@@ -6,10 +6,10 @@ A full-stack contact management system built using **Microservices Architecture*
 
 - **Backend**: Java, Spring Boot, Spring Security, Spring Cloud
 - **Authentication**: OAuth2, JWT
-- **Database**: MongoDB / MySQL (depending on service)
+- **Database**: MongoDB (depending on service)
 - **Containerization**: Docker, Docker Compose
 - **Architecture**: Microservices (User Service, Contact Service, Auth Service)
-- **Frontend**: React / Next.js (Optional UI integration)
+- **Frontend**: React.js
 
 ## 📦 Microservices Overview
 
